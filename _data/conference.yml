@@ -1,6 +1,6 @@
 full_title: "Evolution and Dynamics of Planetary Systems: a conference to celebrate the 70th birthday of Doug Lin"
 short_title: LinFest 2019
-email: linfest2019@gmail.com
+email: LinFest2019@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   HotWeb is a forum bringing together researchers and practitioners interested 
   in the design, implementation, and evaluation of Internet systems and applications. 
@@ -92,8 +92,8 @@ news:
 sponsors:
   - name: Xinjiang
     logo_path: ./assets/images/sponsors/Xinjiang.jpg
-  - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
+  # - name: IEEE
+  #   logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
   facebook_link: https://www.facebook.com/hotwebseries/
   twitter_link:
